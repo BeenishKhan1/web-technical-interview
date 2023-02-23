@@ -1,0 +1,37 @@
+.property_container {
+  padding: 5% 3% 0 3%;
+}
+.property_container > div > div {
+  border-radius: 20px;
+}
+.property_address {
+  justify-content: space-between;
+  display: flex;
+}
+.property_address > span {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+.arrow_icon {
+  color: #fff;
+}
+.property_content {
+  box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%),
+    0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+  z-index: 1;
+  margin-top: -50px;
+  width: 100%;
+  border-radius: 20px;
+  background-color: #fff;
+  text-align: left;
+}
+.primary_btn {
+  background-color: #16b999cc;
+  min-width: 40px;
+}
+.primary_btn:hover .arrow_icon {
+  color: #16b999cc;
+}
+.property_stats {
+  padding: 20px 0 0 0;
+}

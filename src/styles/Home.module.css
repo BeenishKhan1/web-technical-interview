@@ -1,0 +1,25 @@
+.banner_img {
+  background-image: url("/Images/Banner/Property.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sign_in_container {
+  padding: 2%;
+  height: 100vh;
+  overflow: hidden;
+}
+.logo {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+.heading {
+  font-size: 1.3rem;
+  font-weight: 500;
+  padding-bottom: 5%;
+}
+.form_container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}

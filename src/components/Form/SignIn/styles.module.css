@@ -1,0 +1,26 @@
+.input_container > div {
+  width: 100%;
+  padding: 2% 0 2% 0;
+}
+.error_message {
+  color: #f2003c;
+  text-align: center;
+}
+.login_btn {
+  width: 100%;
+  color: #fff;
+  background-color: #afafaf;
+  border: 1px solid #afafaf;
+  padding: 2% 0 2% 0;
+  margin: 2% 0 2% 0;
+}
+.login_btn:hover {
+  color: #afafaf;
+}
+.forgetPassword {
+  color: #afafaf;
+  float: right;
+}
+.forgetPassword:hover {
+  color: #000;
+}
